@@ -1,9 +1,9 @@
-Sport-Shopping App
+#Sport Shopping App
 
-Technologies:
+##Technologies:
 HTML, CSS, PHP, MySQL
 
-Features:
+##Features:
 User registration
 Login system
 Add to cart
@@ -12,5 +12,5 @@ Checkout system
 Admin dashboard
 Product management
 
-Database:
+##Database:
 Import database.sql in MySQL before running the project.
